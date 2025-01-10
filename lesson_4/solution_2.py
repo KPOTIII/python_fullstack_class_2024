@@ -12,4 +12,4 @@ shop_width_float = float(shop_width_str)
 
 shop_area = shop_length_float * shop_width_float
 
-print(shop_area)
+print(shop_area, 'м.кв')
